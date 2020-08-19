@@ -1,0 +1,8 @@
+CPU Stack
+-----------
+
+> Push
+> Pop
+
+Store pushed items in RAM
+Pointer to the top of the stack
